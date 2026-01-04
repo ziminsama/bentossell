@@ -67,3 +67,5 @@ This is my personal website. Use this guide to add features while keeping the sa
 - [ ] Mobile layout OK
 - [ ] No unsafe HTML/scripts in Markdown
 - [ ] No new build/deps introduced without approval
+
+## 添加测试规则
